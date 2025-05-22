@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,dockerproxy.com
 DOMAIN-SUFFIX,us.kg
+DOMAIN-SUFFIX,jellyfin.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
